@@ -6,7 +6,7 @@
 
 <h2>📺 Certifications </h2>
 
-- CompTIA A+
+- CompTIA A+<a href="https://github.com/Sanchez-Gabriel">Aspiring </a>
 - CompTIA Network+
 - Comptia CIOS
 - ISC2 CC 
