@@ -1,4 +1,4 @@
-<h1>Hi, I'm Gabriel! <br/><a href="https://github.com/Sanchez-Gabriel">Aspiring </a>, <a href="https://www.linkedin.com/in/gabriel-Asanchez/">Cybersecurity Professional</a>, <a href="https://www.youtube.com/c/joshmadakor">YouTuber</a></h1>
+<h1>Hi, I'm Gabriel! <br/><a href="https://github.com/Sanchez-Gabriel">Aspiring </a> <a href="https://www.linkedin.com/in/gabriel-Asanchez/">Cybersecurity</a>, <a href="gabrielsanchezcyber.com">Professional</a></h1>
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
