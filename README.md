@@ -4,7 +4,8 @@
 
 - <b>SMB Signing Vulnerability Remediation with Tenable Nessus</b>
   - [Resolving SMB Signing Vulnerability with Tenable Nessus Essentials](https://github.com/Sanchez-Gabriel/Lab-Fixing-SMB-Signing-Vulnerability-Using-Tenable-Nessus-Essential/tree/main)
-
+<b>Resolving SSL Certificate Chain Trust Issues in Nessus Scan: Self-Signed Certificates</b>
+  - [Fixing SSL Certificate Trust Issues in Nessus Scan for FileZilla Server](https://github.com/Sanchez-Gabriel/Resolving-SSL-Certificate-Chain-Trust-Issues-with-Nessus)
   
 
 <h2>📺 Certifications </h2>
