@@ -7,6 +7,9 @@
 <h2>📺 Certifications </h2>
 
 - CompTIA A+
+- CompTIA Network+
+- Comptia CIOS
+- ISC2 CC 
 
 <h2> 🤳 Connect with me:</h2>
 
