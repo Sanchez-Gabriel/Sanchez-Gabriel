@@ -7,10 +7,10 @@
 <h2>📺 Certifications </h2>
 
 - <a href="https://github.com/Sanchez-Gabriel">CompTIA A+ </a>
-- <a href="https://github.com/Sanchez-Gabriel">CompTIA A+ </a>
-- <a href="https://github.com/Sanchez-Gabriel">CompTIA A+ </a>
-- <a href="https://github.com/Sanchez-Gabriel">CompTIA A+ </a>/
-- 
+- <a href="https://github.com/Sanchez-Gabriel">CompTIA Network+ </a>
+- <a href="https://github.com/Sanchez-Gabriel">CompTIA Operations Specialist CIOS </a>
+- <a href="https://github.com/Sanchez-Gabriel">ISC2 CC </a>/
+  
 
 <h2> 🤳 Connect with me:</h2>
 
