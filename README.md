@@ -1,6 +1,6 @@
 <h1>Hi, I'm Gabriel! <br/><a href="https://github.com/Sanchez-Gabriel">Aspiring </a> <a href="https://www.linkedin.com/in/gabriel-Asanchez/">Cybersecurity</a> <a href="https://www.gabrielsanchezcyber.com">Professional</a></h1>
 
-h2>👨‍💻 Cybersecurity Home Labs:</h2>
+<h2>👨‍💻 Cybersecurity Home Labs:</h2>
 
 - <b>SMB Signing Vulnerability Remediation with Tenable Nessus</b>
   - [Resolving SMB Signing Vulnerability with Tenable Nessus Essentials](https://github.com/Sanchez-Gabriel/Lab-Fixing-SMB-Signing-Vulnerability-Using-Tenable-Nessus-Essential/tree/main)
