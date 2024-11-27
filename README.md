@@ -7,9 +7,9 @@
 <h2>📺 Certifications </h2>
 
 - <a href="https://www.credly.com/badges/7799e61c-6bcd-4497-98f0-9757ab567a91/public_url">CompTIA A+ </a>
-- <a href="https://github.com/Sanchez-Gabriel">CompTIA Network+ </a>
-- <a href="https://github.com/Sanchez-Gabriel">CompTIA Operations Specialist CIOS </a>
-- <a href="https://github.com/Sanchez-Gabriel">ISC2 CC </a>
+- <a href="https://www.credly.com/earner/earned/badge/75c2174c-a0a2-4f37-af6d-8c4b48bae112">CompTIA Network+ </a>
+- <a href="https://www.credly.com/earner/earned/badge/e271addb-fd60-43d6-b6f6-e452407a92cb">CompTIA Operations Specialist CIOS </a>
+- <a href="https://www.credly.com/earner/earned/badge/920a6a38-08d9-4f2f-b60a-74cf223ef897">ISC2 CC </a>
   
 
 <h2> 🤳 Connect with me:</h2>
