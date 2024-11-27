@@ -6,7 +6,7 @@
 
 <h2>📺 Certifications </h2>
 
-- <a href="[https://github.com/Sanchez-Gabriel](https://www.credly.com/badges/7799e61c-6bcd-4497-98f0-9757ab567a91/public_url)">CompTIA A+ </a>
+- <a href="[https://github.com/Sanchez-Gabriel](https://www.credly.com/badges/7799e61c-6bcd-4497-98f0-9757ab567a91/public_url)](https://www.credly.com/badges/7799e61c-6bcd-4497-98f0-9757ab567a91/public_url)">CompTIA A+ </a>
 - <a href="https://github.com/Sanchez-Gabriel">CompTIA Network+ </a>
 - <a href="https://github.com/Sanchez-Gabriel">CompTIA Operations Specialist CIOS </a>
 - <a href="https://github.com/Sanchez-Gabriel">ISC2 CC </a>
