@@ -18,7 +18,7 @@
   
 
 <h2> 🤳 Connect with me:</h2>
-
+<iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=2824319" style='border:none;'></iframe>
 
 
 [<img align="left" alt="gabrielsanchez | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
