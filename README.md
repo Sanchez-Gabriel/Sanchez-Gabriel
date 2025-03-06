@@ -26,10 +26,11 @@
 </a>
 
 <a href="https://gabrielsanchezcyber.com" target="_blank" style="margin-left: 10px;">
-  <img align="left" alt="Gabriel Sanchez | Website" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/internetexplorer.svg" style="filter: invert(1) brightness(1000%);">
+  <img align="left" alt="Gabriel Sanchez | Website" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/globe.svg" style="filter: invert(0) brightness(100%);">
 </a>
 
 <a href="mailto:donsanchezgabriel@gmail.com" target="_blank" style="margin-left: 10px;">
   <img align="left" alt="Gabriel Sanchez | Email" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png">
 </a>
+``
 
