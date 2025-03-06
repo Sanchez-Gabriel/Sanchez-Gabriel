@@ -27,7 +27,7 @@
 
 <a href="https://gabrielsanchezcyber.com" target="_blank" style="margin-left: 10px; display: flex; align-items: center;">
   <img align="left" alt="Gabriel Sanchez | Portfolio" width="22px" src="https://cdn-icons-png.flaticon.com/512/2991/2991148.png" style="filter: invert(0) brightness(100%);">
-  <span style="margin-left: 5px;">Portfolio</span>
+  <span style="margin-left: 5px; font-size: 14px; font-weight: bold;">Portfolio</span>
 </a>
 
 <a href="mailto:donsanchezgabriel@gmail.com" target="_blank" style="margin-left: 10px;">
