@@ -19,17 +19,16 @@
 - <a href="https://www.credly.com/earner/earned/badge/920a6a38-08d9-4f2f-b60a-74cf223ef897">ISC2 CC </a>
   
 
-<h2>🤳 Connect with me:</h2>
+<<h2>🤳 Connect with me:</h2>
 
 <a href="https://linkedin.com/in/gabriel-asanchez" target="_blank">
   <img align="left" alt="Gabriel Sanchez | LinkedIn" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png">
 </a>
 
-<a href="https://www.gabrielsanchezcyber.com" target="_blank" style="margin-left: 10px;">
+<a href="https://gabrielsanchezcyber.com" target="_blank" style="margin-left: 10px;">
   <img align="left" alt="Gabriel Sanchez | Website" width="22px" src="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/svgs/solid/globe.svg">
 </a>
 
 <a href="mailto:donsanchezgabriel@gmail.com" target="_blank" style="margin-left: 10px;">
   <img align="left" alt="Gabriel Sanchez | Email" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png">
 </a>
-
