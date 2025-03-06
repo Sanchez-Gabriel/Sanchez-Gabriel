@@ -19,17 +19,12 @@
 - <a href="https://www.credly.com/earner/earned/badge/920a6a38-08d9-4f2f-b60a-74cf223ef897">ISC2 CC </a>
   
 
-<h2> 🤳 Connect with me:</h2>
+<h2>🤳 Connect with me:</h2>
 
+<a href="https://linkedin.com/in/gabriel-asanchez" target="_blank">
+  <img align="left" alt="gabrielsanchez | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" style="filter: invert(1);">
+</a>
 
-[<img align="left" alt="gabrielsanchez | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-
-
-
-
-
-[linkedin]: https://linkedin.com/in/gabriel-asanchez
-<!--
 
 Here are some ideas to get you started:
 
