@@ -32,5 +32,3 @@
 <a href="mailto:donsanchezgabriel@gmail.com" target="_blank" style="margin-left: 10px;">
   <img align="left" alt="Gabriel Sanchez | Email" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png">
 </a>
-
-
