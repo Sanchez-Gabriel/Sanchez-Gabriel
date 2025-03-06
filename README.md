@@ -19,7 +19,7 @@
 - <a href="https://www.credly.com/earner/earned/badge/920a6a38-08d9-4f2f-b60a-74cf223ef897">ISC2 CC </a>
   
 
-<h2>🤳 Connect with me:</h2>
+<h2>🌐 Connect with me:</h2>
 
 <a href="https://linkedin.com/in/gabriel-asanchez" target="_blank">
   <img align="left" alt="Gabriel Sanchez | LinkedIn" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png">
