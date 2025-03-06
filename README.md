@@ -25,8 +25,9 @@
   <img align="left" alt="Gabriel Sanchez | LinkedIn" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png">
 </a>
 
-<a href="https://gabrielsanchezcyber.com" target="_blank" style="margin-left: 10px;">
-  <img align="left" alt="Gabriel Sanchez | Portfolio" width="22px" src="https://cdn-icons-png.flaticon.com/512/3128/3128188.png">
+<a href="https://gabrielsanchezcyber.com" target="_blank" style="margin-left: 10px; display: flex; align-items: center;">
+  <img align="left" alt="Gabriel Sanchez | Portfolio" width="22px" src="https://cdn-icons-png.flaticon.com/512/2991/2991148.png" style="filter: invert(0) brightness(100%);">
+  <span style="margin-left: 5px;">Portfolio</span>
 </a>
 
 <a href="mailto:donsanchezgabriel@gmail.com" target="_blank" style="margin-left: 10px;">
