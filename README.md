@@ -22,7 +22,15 @@
 <h2>🤳 Connect with me:</h2>
 
 <a href="https://linkedin.com/in/gabriel-asanchez" target="_blank">
-  <img align="left" alt="gabrielsanchez | LinkedIn" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png">
+  <img align="left" alt="Gabriel Sanchez | LinkedIn" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png">
+</a>
+
+<a href="https://www.gabrielsanchezcyber.com" target="_blank" style="margin-left: 10px;">
+  <img align="left" alt="Gabriel Sanchez | Website" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/6/6a/Globe_icon.svg">
+</a>
+
+<a href="mailto:donsanchezgabriel@gmail.com" target="_blank" style="margin-left: 10px;">
+  <img align="left" alt="Gabriel Sanchez | Email" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png">
 </a>
 
 
