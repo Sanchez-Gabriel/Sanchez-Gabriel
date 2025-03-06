@@ -22,11 +22,11 @@
 <h2>🤳 Connect with me:</h2>
 
 <a href="https://linkedin.com/in/gabriel-asanchez" target="_blank">
-  <img align="left" alt="Gabriel Sanchez | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" style="filter: invert(1) brightness(1000%);">
+  <img align="left" alt="Gabriel Sanchez | LinkedIn" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png">
 </a>
 
 <a href="https://www.gabrielsanchezcyber.com" target="_blank" style="margin-left: 10px;">
-  <img align="left" alt="Gabriel Sanchez | Website" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/internetarchive.svg" style="filter: invert(1) brightness(1000%);">
+  <img align="left" alt="Gabriel Sanchez | Website" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/6/6b/Internet-web-browser-icon.png">
 </a>
 
 <a href="mailto:donsanchezgabriel@gmail.com" target="_blank" style="margin-left: 10px;">
