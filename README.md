@@ -26,7 +26,7 @@
 </a>
 
 <a href="https://gabrielsanchezcyber.com" target="_blank" style="margin-left: 10px;">
-  <img align="left" alt="Gabriel Sanchez | Website" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/4/47/WordPress_logo_2013.svg" style="filter: invert(0) brightness(100%);">
+  <img align="left" alt="Gabriel Sanchez | Website" width="22px" src="https://cdn-icons-png.flaticon.com/512/2991/2991148.png" style="filter: invert(0) brightness(100%);">
 </a>
 
 <a href="mailto:donsanchezgabriel@gmail.com" target="_blank" style="margin-left: 10px;">
