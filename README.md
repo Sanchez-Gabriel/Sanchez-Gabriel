@@ -26,7 +26,7 @@
 </a>
 
 <a href="https://www.gabrielsanchezcyber.com" target="_blank" style="margin-left: 10px;">
-  <img align="left" alt="Gabriel Sanchez | Website" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/8/88/Internet-web-browser.svg">
+  <img align="left" alt="Gabriel Sanchez | Website" width="22px" src="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/svgs/solid/globe.svg">
 </a>
 
 <a href="mailto:donsanchezgabriel@gmail.com" target="_blank" style="margin-left: 10px;">
